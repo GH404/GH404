@@ -1,6 +1,8 @@
 #### Hi there ( ^_^)／
 
 I'm Gus a programming student
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: [gus.123xyz@outlook.com](gus.123xyz@outlook.com)
 
 <!--
 **bluecat808/bluecat808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
