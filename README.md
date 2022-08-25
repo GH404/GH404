@@ -1,4 +1,6 @@
-#### Hi there my name is Gus ( ^_^)／
+#### Hi there ( ^_^)／
+
+I'm Gus a programming student
 
 <!--
 **bluecat808/bluecat808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
