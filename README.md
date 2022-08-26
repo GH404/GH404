@@ -1,7 +1,7 @@
 #### Hi there ( ^_^)／
 
 I'm Gus a programming student
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: [gus.123xyz@outlook.com](gus.123xyz@outlook.com)
 
 <!--
