@@ -1,8 +1,12 @@
 #### Hi there ( ^_^)／
 
 I'm Gus a programming student
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: [gus.123xyz@outlook.com](gus.123xyz@outlook.com)
+
+#### Github Stats :
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bluecat808&show_icons=true)](https://github.com/bluecat808/github-readme-stats)
+
 
 <!--
 **bluecat808/bluecat808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
