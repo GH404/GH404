@@ -4,8 +4,6 @@ I'm Gus a programming student
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [gus.123xyz@outlook.com](gus.123xyz@outlook.com)
 
-#### Github Stats :
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bluecat808&show_icons=true)](https://github.com/bluecat808/github-readme-stats)
 
 
 <!--
