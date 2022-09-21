@@ -1,4 +1,4 @@
-#### Hi there ( ^_^)／
+#### 👋🏼 Hi there
 
 I'm Gus a programming student
 - 🌱 I’m currently learning Python
