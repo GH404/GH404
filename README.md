@@ -1,6 +1,6 @@
 #### 👋🏼 Hi there
 
-I'm Gus a programming student at Year Up 
+I'm Gustavo Hernandez a programming student at Year Up 
 
 - 🌱 I'm currently interning at American Express 
 - 💻 I’m currently learning Splunk and Python
