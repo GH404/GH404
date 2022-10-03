@@ -1,7 +1,9 @@
 #### 👋🏼 Hi there
 
-I'm Gus a programming student
-- 🌱 I’m currently learning Python
+I'm Gus a programming student at Year Up 
+
+- 🌱 I'm currently interning at American Express 
+- 💻 I’m currently learning Splunk and Python
 - 📫 How to reach me: [gus.123xyz@outlook.com](gus.123xyz@outlook.com)
 
 
