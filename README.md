@@ -1,9 +1,4 @@
-#### 👋🏼 Hi there
-
-I'm Gustavo Hernandez a programming student 
-
-- 🌱  I’m currently learning Python
-- 📫 How to reach me: [gus.123xyz@gmail.com](mailto:gus.123xyz@gmail.com)
+#### ...
 
 
 
