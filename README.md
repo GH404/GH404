@@ -1,9 +1,10 @@
  ## (=^･ω･^=)
- 
+``` 
 ┊ 🔭 I’m currently working on CLI applications
 ┊ 🌱 I’m currently learning C, Python, and Go
 ┊ ...
 ╰───────────✿
+```
 
 
 <!--
